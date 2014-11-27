@@ -1,0 +1,2 @@
+curdir=$(pwd)
+echo "wget ftp://"$HOSTNAME$curdir/$1

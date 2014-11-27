@@ -1,0 +1,2 @@
+curdir=$(pwd)
+echo "scp -r "${USER}@${HOSTNAME}:${curdir}/$1" ."
